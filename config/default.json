@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "thisissecreatofnjdevelopemt",
+    "db": "mongodb+srv://dbUser:dbUserPassword@cluster0.pqzrq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  }
+  
